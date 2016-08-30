@@ -13,7 +13,7 @@
             width:80%;
             border:1px solid #eee;
             padding:20px;
-            border-radius:8px;
+            border-radius:16px;
             box-shadow:2px 2px 10px #808080;
             display:none;
         }
@@ -35,6 +35,7 @@
         td.text{
             word-wrap:break-word;
             word-break:normal;
+            text-align:right;
         }
     </style>
 </head>
