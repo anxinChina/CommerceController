@@ -43,6 +43,11 @@
         <div class="content">
             <table>
                 <tr>
+                    <td colspan="2">
+                        &nbsp;
+                    </td>
+                </tr>
+                <tr>
                     <td class="text">
                         <b>账户：</b>
                     </td>
@@ -80,8 +85,8 @@
                     </td>
                 </tr>
                 <tr>
-                    <td colspan="2" style="text-align:center;">
-                        
+                    <td colspan="2" style="text-align:center;font-size:12px;">
+                        <span>没有帐号？去<a href="">注册</a></span>
                     </td>
                 </tr>
             </table>
